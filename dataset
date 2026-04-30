@@ -1,0 +1,22 @@
+Superstore Chakana Savdo Tahlili (Tozalangan Ma'lumotlar)
+Loyiha haqida qisqacha:
+Ushbu ma'lumotlar to'plami AQShdagi yirik chakana savdo do'konining (Superstore) bir necha yillik savdo tranzaksiyalarini o'z ichiga oladi. Tahlillarni aniq va xatosiz amalga oshirish uchun dataset to'liq tozalangan va xatoliklardan xalos qilingan. Baza qariyb 10,000 ta real xarid amaliyotlaridan iborat.
+
+Ushbu dataset o'zida qanday ma'lumotlarni saqlaydi?
+
+Mijozlar va Geografiya: Xaridorlar qaysi toifaga mansubligi (oddiy iste'molchi, korporativ mijoz) hamda qaysi shtat va shaharlardan ekanligi.
+
+Mahsulotlar: Mebel, ofis jihozlari va texnika kabi toifalar bo'yicha sotilayotgan tovarlar.
+
+Moliyaviy ko'rsatkichlar: Har bir xaridning umumiy summasi, mijozga berilgan chegirmalar va natijada olingan sof foyda yoki zarar ko'rsatkichlari.
+
+Vaqt dinamikasi: Buyurtma berilgan va yetkazib berilgan sanalar.
+
+Bu ma'lumotlar biznesga qanday foyda keltiradi?
+Ushbu to'plam ustida qilingan tahlillar orqali kompaniya rahbariyati quyidagi muhim savollarga javob topishi mumkin:
+
+Kompaniyaga eng ko'p daromad va eng ko'p zarar keltirayotgan hududlar hamda mahsulotlar qaysilar?
+
+Mijozlarga berilayotgan chegirmalar o'zini oqlayaptimi yoki sof foydani kamaytirib yuboryaptimi?
+
+Oylik va yillik savdo o'sish dinamikasi qanday kechmoqda?
